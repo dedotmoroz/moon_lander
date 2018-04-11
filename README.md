@@ -1,7 +1,6 @@
-# moon_lander
-
+<p align="center">Moon Lander</p>
 <p align="center">
-  <img width="200" src="/screen.png" alt="moon_lander">
+  <img width="300" src="/screen.png" alt="moon_lander">
 </p>
   
   
