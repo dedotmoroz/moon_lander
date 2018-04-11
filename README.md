@@ -1,4 +1,4 @@
-<p align="center">Moon Lander</p>
+<h1 align="center">Moon Lander</h1>
 <p align="center">
   <img width="300" src="/screen.png" alt="moon_lander">
 </p>
